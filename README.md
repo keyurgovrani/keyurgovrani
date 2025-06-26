@@ -46,8 +46,8 @@ I can spend hours coding, but as soon as I encounter a bug, my favorite hobby su
 ---
 
 ## 📊 GitHub Stats  
-[![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keyurgovrani&show_icons=true&theme=radical)](https://github.com/keyurgovrani/)  
-[![keyurgovrani's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyurgovrani&show_icons=true&theme=radical)](https://github.com/keyurgovrani)  
+[![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tapaskumar05&show_icons=true&theme=radical)](https://github.com/tapaskumar05/)  
+[![keyurgovrani's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapaskumar05&show_icons=true&theme=radical)](https://github.com/tapaskumar05)  
 
 ## 🔥 GitHub Streak  
 
