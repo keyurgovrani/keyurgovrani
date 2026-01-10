@@ -1,9 +1,9 @@
 # Hi there 👋  
 
-I'm [Keyur Govrani](https://github.com/keyurgovrani), a **Product Engineer at UnifyApps**, working in the **frontend team**.  
+I'm [Keyur Govrani](https://github.com/keyurgovrani), a **Product Engineer at UnifyApps**, working in the **frontend team**.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120">
 </div>
 
 <div id="badges" align="center">
@@ -13,8 +13,16 @@ I'm [Keyur Govrani](https://github.com/keyurgovrani), a **Product Engineer at Un
 </div>
 
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=keyurgovrani&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=keyurgovrani&style=flat-square&color=blue" alt="profile views"/>
 </div>
+
+---
+
+## 🧭 How I Build
+
+- Automate the routine, focus on the hard 20%
+- Trust-but-verify (tests, profiling, reviews)
+- Performance is a feature — not an afterthought
 
 ## 🔭 What I'm Working On  
 
@@ -33,6 +41,7 @@ I’m open to collaborating on **frontend projects, UI/UX improvements, and web 
 I'm experienced in:  
 - **Frontend**: React.js, Next.js, React Query, Tailwind CSS, Material UI  
 - **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
+- **CI/CD & Automation**: GitHub Actions, GitHub Workflows  
 - **Other**: Git, GitHub
 
 ## 📫 How to Reach Me  
@@ -41,7 +50,7 @@ You can reach me via [email](mailto:keyurgovrani6912@gmail.com). Let's get in to
 
 ## ⚡ Fun Fact  
 
-I can spend hours coding, but as soon as I encounter a bug, my favorite hobby suddenly becomes hitting the refresh button on Stack Overflow!  
+I treat AI like a junior teammate: great drafts, mandatory reviews — DevTools gets the final say. 😄  
 
 ---
 
@@ -69,7 +78,7 @@ I can spend hours coding, but as soon as I encounter a bug, my favorite hobby su
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
   </a>
 </p>
 
