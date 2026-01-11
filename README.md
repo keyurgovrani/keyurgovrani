@@ -16,6 +16,14 @@ I'm [Keyur Govrani](https://github.com/keyurgovrani), a **Product Engineer at Un
   <img src="https://komarev.com/ghpvc/?username=keyurgovrani&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
+<div id = "counter" align = "center">
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=keyurgovrani" alt="keyurgovrani" />
+    </a>   
+  </p>
+</div>
+
 ---
 
 ## 🧭 How I Build
