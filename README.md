@@ -62,6 +62,10 @@ I treat AI like a junior teammate: great drafts, mandatory reviews — DevTools 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keyurgovrani&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keyurgovrani&custom_title=keyurgovrani's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="keyurgovrani's Github Activity Graph" width="100%"/>
+</div>
+
 ## 💼 Technical Skills  
 
 <p align="center">
